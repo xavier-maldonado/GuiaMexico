@@ -1,0 +1,81 @@
+body {
+  background-color: LightGreen;
+  font-family:"Helvetica", sans-serif;
+  color: black;
+}
+h1 {
+  color: white;
+  font-family:Impact, Charcoal, sans-serif, serif;
+}
+h3 {
+  color: red;
+}
+nav ul {
+  background-color:red; 
+  border-style:solid;
+  border-color:white;
+  border-width:4px;
+  padding:10px;
+  border-radius:10px;
+}
+nav ul li {
+  list-style-type:none;
+  display:inline;
+  margin-right:10px;
+  margin-left:10px;
+  color:black; 
+}
+nav ul li a {
+  text-decoration:none;
+  color:white;
+}
+img {
+  border-radius:10px;
+}
+li a {
+  text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: white;
+}
+th, td {
+  vertical-align: top;
+  padding: 13px;
+  text-align: left;
+}
+th {
+  color: green;
+}
+td {
+  color: red;
+}
+/********************************/
